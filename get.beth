@@ -1,0 +1,2 @@
+personal.newAccount("layer1-password");
+miner.start(2);
