@@ -1,0 +1,9 @@
+{
+  "name": "GBTNetwork-L1",
+  "version": "1.0",
+  "network": "mainnet",
+  "rpc": "http://localhost:9545",
+  "entry": "entrypoint.sh",
+  "genesis": "genesis.json",
+  "preallocated": "36 sextillion GBT to 0xF7F965b65E735Fb1C22266BdcE7A23CF5026AF1E"
+}
